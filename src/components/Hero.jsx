@@ -1,4 +1,4 @@
-import nigru from "../assets/nigru.jpg";
+import semiformal from "../assets/semiformal.jpg";
 import { Link } from "react-router-dom";
 
 
@@ -37,7 +37,7 @@ export default function Home() {
 
         <div className="flex-1 flex justify-center">
           <div className="relative w-80 h-80 md:w-96 md:h-96 rounded-full border-8 border-purple-300 overflow-hidden shadow-lg">
-           <img src={nigru} alt="Profile" className="w-full h-full object-cover" />
+           <img src={semiformal} alt="Profile" className="w-full h-full object-cover" />
           </div>
         </div>
       </div>
